@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+    font-family: cursive;
+    color: darkgreen;
+}
+
+.btn-success{
+    margin-top: 0px;
+    height: 50px;
+}
+
+.btn-danger{
+    font-size: 27px;
+    width: 300px;
+}
+
+#prevent{
+    background-color: navy;
+    color: azure;
+    font-size: 20px;
+}
